@@ -322,7 +322,7 @@ Built with `react-native-svg` on dark canvas.
 - [x] Smooth screen transitions (slide_from_right onboarding, slide_from_bottom modal)
 - [x] Haptic feedback on score ring render, event tap, and sheet open (`expo-haptics`)
 - [x] App icon SVG (dark background, crescent moon in deep red)
-- [ ] Splash screen (brand mark, dark)
+- [x] Splash screen (brand mark, dark)
 - [ ] Test on physical device via Expo Go
 - [ ] Practice the pitch flow: onboarding → today → wheel → nudge → reschedule
 

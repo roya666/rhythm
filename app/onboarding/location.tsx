@@ -29,7 +29,7 @@ export default function LocationScreen() {
 
   function handleFinish() {
     setOnboardingComplete(true);
-    router.dismissAll();
+    router.navigate("/(tabs)");
   }
 
   return (
